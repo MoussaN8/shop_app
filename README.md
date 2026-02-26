@@ -1,16 +1,22 @@
 # shop_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Une application mobile avec **Flutter** qui affichent juste des produits avec 2 pages (accueil et le panier)  développée dans le cadre de ma formation .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🛠️ Technologies utilisées
+- **Framework :** Flutter
+- **Langage :** Dart
+- **Gestion d'état :** [Bloc / Cubit]
+- **Outils :** [Supabase,Get it ]
+
+## 📸 Aperçu
+![Capture d'écran de l'accueil](home_shop.png)
+![Capture d'écran de la page cart](item_cart.png)
+![Capture d'écran de l'item](item_shop.png)
+
+
